@@ -1,0 +1,27 @@
+{
+    "name": "prmd/excelreader",
+    "description": "Excel Reader",
+    "type": "yii2extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pramod",
+            "email": "pramod.k@innovify.in"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "\\prmd\\excelreader\\": ""
+        }
+    }
+    ,"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/pramodk1/excelreader.git"
+        }
+    ]
+}
