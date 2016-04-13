@@ -1,5 +1,5 @@
 {
-    "name": "prmd/excelreader",
+    "name": "prmd/yii2-excelreader",
     "description": "Excel Reader",
     "type": "yii2extension",
     "keywords": ["yii2","extension"],
@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "\\prmd\\excelreader\\": ""
+            "\\prmd\\yii2-excelreader\\": ""
         }
     }
     ,"repositories": [
